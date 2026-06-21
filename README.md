@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vedika Dwivedi 👋
 
-<!--
-**vedikadwivedi/vedikadwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Cyber Security Student at Gautam Buddha University
 
-Here are some ideas to get you started:
+💼 Software Intern at Astrea
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Intern at National Informatics Centre (NIC)
+
+🌱 Currently Learning
+- Cyber Security
+- Data Analytics
+- Advanced SQL
+- Python
+
+💻 Current Projects
+- NIC Website Audit Dashboard
+- SQL LeetCode Solutions
+- Data Analytics Projects
+- Cyber Security Labs
+
+🛠 Tech Stack
+- Python
+- SQL
+- Git & GitHub
+- Tableau
+- HTML
+- CSS
